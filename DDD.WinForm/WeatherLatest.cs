@@ -13,7 +13,7 @@ using System.Windows;
 using System.Windows.Forms;
 
 /// <summary>DDD</summary>
-namespace DDD
+namespace DDD.WinForm
 {
     public partial class WeatherLatest : Form
     {

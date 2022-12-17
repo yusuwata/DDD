@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DDD
+namespace DDD.WinForm
 {
     internal static class Program
     {
